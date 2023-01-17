@@ -1,0 +1,3 @@
+[submodule "msvc/GtestFramework/googletest"]
+	path = msvc/GtestFramework/googletest
+	url = https://github.com/google/googletest.git
