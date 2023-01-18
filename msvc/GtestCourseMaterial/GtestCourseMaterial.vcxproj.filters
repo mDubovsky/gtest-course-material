@@ -13,18 +13,16 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\Tests">
+      <UniqueIdentifier>{06c7cd4b-fb90-45ac-8241-1b2bdf16448e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Tests\beginner_1">
+      <UniqueIdentifier>{33cb9853-0990-43ce-b51c-ef9aea8900fe}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="GtestCourseMaterial.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="..\..\course_material\beginner_1\beginner_1.cpp">
+      <Filter>Source Files\Tests\beginner_1</Filter>
     </ClCompile>
-    <ClCompile Include="pch.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="pch.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
