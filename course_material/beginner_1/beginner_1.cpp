@@ -2,6 +2,7 @@
 
 namespace
 {
+    // Tested code
     class TestedCode
     {
     public:
@@ -11,6 +12,7 @@ namespace
         }
     };
 
+    // Unit tests
     TEST(Beginner1, HelloWorld)
     {
         TestedCode testedObject;
