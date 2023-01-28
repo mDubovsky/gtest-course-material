@@ -7,10 +7,7 @@ namespace
     class TestedCode
     {
     public:
-        double getPiAsDouble()
-        {
-            return 3.1415;
-        }
+        double getPiAsDouble() { return 3.1415; }
     };
 
     // Unit tests

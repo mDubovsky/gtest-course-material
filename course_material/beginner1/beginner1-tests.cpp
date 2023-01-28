@@ -6,10 +6,7 @@ namespace
     class TestedCode
     {
     public:
-        int getOne()
-        {
-            return 1;
-        }
+        int getOne() { return 1; }
     };
 
     // Unit tests

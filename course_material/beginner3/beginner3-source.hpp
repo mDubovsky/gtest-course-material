@@ -8,4 +8,5 @@ public:
     int getOne();
     const char* getFooString();
     float getPi();
+    void* getNull();
 };

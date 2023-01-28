@@ -26,6 +26,8 @@
     <ClCompile Include="..\..\course_material\beginner4\beginner4-tests.cpp" />
     <ClCompile Include="..\..\course_material\beginner5\beginner5-source.cpp" />
     <ClCompile Include="..\..\course_material\beginner5\beginner5-tests.cpp" />
+    <ClCompile Include="..\..\course_material\beginner6\beginner6-tests.cpp" />
+    <ClCompile Include="..\..\course_material\beginner7\beginner7-tests.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\course_material\beginner3\beginner3-source.hpp" />

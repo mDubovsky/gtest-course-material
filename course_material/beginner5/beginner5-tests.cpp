@@ -9,6 +9,7 @@ namespace
         TestedCode testedObject;
 
         EXPECT_NE(0, testedObject.getFortyTwo());
+        // EXPECT_NE(NULL, testedObject.getNull());  // this is not supported and will not compile
     }
 
     TEST(Beginner5, TestLessThan)

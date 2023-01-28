@@ -19,6 +19,13 @@ namespace
         EXPECT_EQ(1, testedObject.getOne());
     }
 
+    TEST(Beginner3, TestPtr)
+    {
+        TestedCode testedObject;
+
+        EXPECT_EQ(NULL, testedObject.getNull());
+    }
+
     TEST(Beginner3, TestString)
     {
         TestedCode testedObject;
