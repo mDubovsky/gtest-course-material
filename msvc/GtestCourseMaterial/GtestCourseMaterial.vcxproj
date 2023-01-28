@@ -18,6 +18,15 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\course_material\beginner1\beginner1-tests.cpp" />
+    <ClCompile Include="..\..\course_material\beginner2\beginner2-tests.cpp" />
+    <ClCompile Include="..\..\course_material\beginner3\beginner3-source.cpp" />
+    <ClCompile Include="..\..\course_material\beginner3\beginner3-tests.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\course_material\beginner3\beginner3-source.hpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -71,17 +80,17 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <IncludePath>..\GtestFramework\googletest\googletest;..\GtestFramework\googletest\googletest\include;..\GtestFramework\googletest\googlemock;..\GtestFramework\googletest\googlemock\include;.;$(IncludePath)</IncludePath>
+    <IncludePath>..\GtestFramework\googletest\googletest;..\GtestFramework\googletest\googletest\include;..\GtestFramework\googletest\googlemock;..\GtestFramework\googletest\googlemock\include;..\..\course_material;.;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
-    <IncludePath>..\GtestFramework\googletest\googletest;..\GtestFramework\googletest\googletest\include;..\GtestFramework\googletest\googlemock;..\GtestFramework\googletest\googlemock\include;.;$(IncludePath)</IncludePath>
+    <IncludePath>..\GtestFramework\googletest\googletest;..\GtestFramework\googletest\googletest\include;..\GtestFramework\googletest\googlemock;..\GtestFramework\googletest\googlemock\include;..\..\course_material;.;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>..\GtestFramework\googletest\googletest;..\GtestFramework\googletest\googletest\include;..\GtestFramework\googletest\googlemock;..\GtestFramework\googletest\googlemock\include;.;$(IncludePath)</IncludePath>
+    <IncludePath>..\GtestFramework\googletest\googletest;..\GtestFramework\googletest\googletest\include;..\GtestFramework\googletest\googlemock;..\GtestFramework\googletest\googlemock\include;..\..\course_material;.;$(IncludePath)</IncludePath>
     <LibraryPath>$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
-    <IncludePath>..\GtestFramework\googletest\googletest;..\GtestFramework\googletest\googletest\include;..\GtestFramework\googletest\googlemock;..\GtestFramework\googletest\googlemock\include;.;$(IncludePath)</IncludePath>
+    <IncludePath>..\GtestFramework\googletest\googletest;..\GtestFramework\googletest\googletest\include;..\GtestFramework\googletest\googlemock;..\GtestFramework\googletest\googlemock\include;..\..\course_material;.;$(IncludePath)</IncludePath>
     <LibraryPath>$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
@@ -160,9 +169,6 @@
       <AdditionalLibraryDirectories>..\$(IntDir);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\course_material\beginner_1\beginner_1.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
