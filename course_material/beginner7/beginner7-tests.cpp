@@ -6,8 +6,10 @@ namespace
     class TestedCode
     {
     public:
-        // Asserts can't be used in Constructor/Destructor
-        // Following would not compile
+        // Asserts can't be used in Constructor/Destructor.
+        // Gtest's ASSERT makes function return value, 
+        // which Constructor/Destructor can't do.
+        // Following would not compile.
         // TestedCode() { ASSERT_TRUE(true); };
         // virtual ~TestedCode() { ASSERT_TRUE(true); };
 

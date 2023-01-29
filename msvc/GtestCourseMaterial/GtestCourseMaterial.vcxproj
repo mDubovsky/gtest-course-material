@@ -28,10 +28,14 @@
     <ClCompile Include="..\..\course_material\beginner5\beginner5-tests.cpp" />
     <ClCompile Include="..\..\course_material\beginner6\beginner6-tests.cpp" />
     <ClCompile Include="..\..\course_material\beginner7\beginner7-tests.cpp" />
+    <ClCompile Include="..\..\course_material\beginner8\beginner8-source.cpp" />
+    <ClCompile Include="..\..\course_material\beginner8\beginner8-tests.cpp" />
+    <ClCompile Include="..\..\course_material\beginner9\beginner9-tests.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\course_material\beginner3\beginner3-source.hpp" />
     <ClInclude Include="..\..\course_material\beginner5\beginner5-source.hpp" />
+    <ClInclude Include="..\..\course_material\beginner8\beginner8-source.hpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
