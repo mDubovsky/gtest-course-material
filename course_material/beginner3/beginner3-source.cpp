@@ -1,4 +1,4 @@
-#include "beginner3/beginner3-source.hpp"
+#include "beginner3-source.hpp"
 #include <stddef.h> // NULL is defined here
 
 bool TestedCode::getTrue() 

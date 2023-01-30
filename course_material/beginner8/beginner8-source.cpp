@@ -1,4 +1,4 @@
-#include "beginner8/beginner8-source.hpp"
+#include "beginner8-source.hpp"
 #include <assert.h>
 
 Wallet::Wallet()

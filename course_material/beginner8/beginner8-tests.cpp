@@ -1,5 +1,5 @@
 #include "gtest/gtest.h"
-#include "beginner8/beginner8-source.hpp"
+#include "beginner8-source.hpp"
 
 namespace
 {

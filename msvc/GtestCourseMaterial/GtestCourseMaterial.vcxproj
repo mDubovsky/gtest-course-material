@@ -20,6 +20,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\course_material\beginner10\beginner10-tests.cpp" />
+    <ClCompile Include="..\..\course_material\beginner11\beginner11-tests.cpp" />
+    <ClCompile Include="..\..\course_material\beginner12\beginner12-tests.cpp" />
     <ClCompile Include="..\..\course_material\beginner1\beginner1-tests.cpp" />
     <ClCompile Include="..\..\course_material\beginner2\beginner2-tests.cpp" />
     <ClCompile Include="..\..\course_material\beginner3\beginner3-source.cpp" />

@@ -1,4 +1,4 @@
-#include "beginner5/beginner5-source.hpp"
+#include "beginner5-source.hpp"
 
 int TestedCode::getFortyTwo()
 { 
