@@ -4,7 +4,7 @@
 
 namespace Beginner14Code
 {
-	int Thermometer::getTemperature()
+	int Thermometer::getTemperatureCelsius()
 	{
 		srand((unsigned)time(NULL));
 		int randTemp = (rand() % 61) - 20; // random number from -20 to 40
@@ -18,6 +18,6 @@ namespace Beginner14Code
 
 	bool FreezingIndicator::isItFreezing()
 	{
-		return m_therm.getTemperature() <= 0;
+		return m_therm.getTemperatureCelsius() <= 0;
 	}
 }

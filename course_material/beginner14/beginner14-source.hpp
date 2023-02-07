@@ -7,7 +7,7 @@ namespace Beginner14Code
     class Thermometer 
     {
     public:
-        virtual int getTemperature();
+        virtual int getTemperatureCelsius();
     };
 
     class FreezingIndicator 

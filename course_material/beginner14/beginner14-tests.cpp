@@ -9,7 +9,7 @@ namespace Beginner14Code
     // Mocks
     class MockThermometer : public Thermometer {
     public:
-        MOCK_METHOD(int, getTemperature, (), (override));
+        MOCK_METHOD(int, getTemperatureCelsius, (), (override));
     };
 
     // Unit tests
@@ -17,7 +17,7 @@ namespace Beginner14Code
         MockThermometer thermometer;
         FreezingIndicator indicator(thermometer);
 
-        EXPECT_CALL(thermometer, getTemperature())
+        EXPECT_CALL(thermometer, getTemperatureCelsius())
             .WillOnce(Return(-1)); // it's implied we're expecting one call
 
         EXPECT_TRUE(indicator.isItFreezing());
@@ -27,7 +27,7 @@ namespace Beginner14Code
         MockThermometer thermometer;
         FreezingIndicator indicator(thermometer);
 
-        EXPECT_CALL(thermometer, getTemperature())
+        EXPECT_CALL(thermometer, getTemperatureCelsius())
             .WillRepeatedly(Return(20)); // it's implied we're expecting any amount of calls
 
         EXPECT_FALSE(indicator.isItFreezing());
@@ -39,7 +39,7 @@ namespace Beginner14Code
         MockThermometer thermometer;
         FreezingIndicator indicator(thermometer);
 
-        EXPECT_CALL(thermometer, getTemperature())
+        EXPECT_CALL(thermometer, getTemperatureCelsius())
             .Times(3)
             .WillOnce(Return(15))
             .WillOnce(Return(5))

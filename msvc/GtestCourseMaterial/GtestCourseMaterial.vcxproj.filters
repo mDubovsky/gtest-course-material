@@ -81,6 +81,18 @@
     <ClCompile Include="..\..\course_material\beginner14\beginner14-tests.cpp">
       <Filter>Source Files\Tests</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\course_material\beginner16\beginner16-tests.cpp">
+      <Filter>Source Files\Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\beginner16\beginner16-source.cpp">
+      <Filter>Source Files\Tested code</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\beginner15\beginner15-source.cpp">
+      <Filter>Source Files\Tested code</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\beginner15\beginner15-tests.cpp">
+      <Filter>Source Files\Tests</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\course_material\beginner3\beginner3-source.hpp">
@@ -96,6 +108,12 @@
       <Filter>Header Files\Tested code</Filter>
     </ClInclude>
     <ClInclude Include="..\..\course_material\beginner14\beginner14-source.hpp">
+      <Filter>Header Files\Tested code</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\course_material\beginner16\beginner16-source.hpp">
+      <Filter>Header Files\Tested code</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\course_material\beginner15\beginner15-source.hpp">
       <Filter>Header Files\Tested code</Filter>
     </ClInclude>
   </ItemGroup>
