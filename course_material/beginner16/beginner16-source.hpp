@@ -3,7 +3,6 @@
 // Tested code
 namespace Beginner16Code
 {
-    // Tested code
     class Multiplier 
     {
     public:

@@ -3,7 +3,6 @@
 // Tested code
 namespace Beginner14Code
 {
-    // Tested code
     class Thermometer 
     {
     public:

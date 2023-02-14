@@ -3,7 +3,6 @@
 // Tested code
 namespace Beginner13Code
 {
-    // Tested code
     enum class Attitude 
     {
         Friendly,

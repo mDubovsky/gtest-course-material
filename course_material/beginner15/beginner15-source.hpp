@@ -3,7 +3,6 @@
 // Tested code
 namespace Beginner15Code
 {
-    // Tested code
     class CashRegister 
     {
     public:
