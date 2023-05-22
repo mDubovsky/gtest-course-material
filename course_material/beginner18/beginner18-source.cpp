@@ -4,7 +4,14 @@ namespace Beginner18Code
 {
 	std::string AnimalTrainer::trainAnimal(const char* animal)
 	{
-		return std::string();
+		if (nullptr != animal)
+		{
+			return std::string("Trained animal trick");
+		}
+		else
+		{
+			return std::string("No animal available");
+		}
 	}
 
 	Circus::Circus(AnimalTrainer& animal_trainer):

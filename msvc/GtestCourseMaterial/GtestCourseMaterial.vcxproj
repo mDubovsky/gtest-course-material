@@ -34,6 +34,8 @@
     <ClCompile Include="..\..\course_material\beginner17\beginner17-tests.cpp" />
     <ClCompile Include="..\..\course_material\beginner18\beginner18-source.cpp" />
     <ClCompile Include="..\..\course_material\beginner18\beginner18-tests.cpp" />
+    <ClCompile Include="..\..\course_material\beginner19\beginner19-source.cpp" />
+    <ClCompile Include="..\..\course_material\beginner19\beginner19-tests.cpp" />
     <ClCompile Include="..\..\course_material\beginner1\beginner1-tests.cpp" />
     <ClCompile Include="..\..\course_material\beginner2\beginner2-tests.cpp" />
     <ClCompile Include="..\..\course_material\beginner3\beginner3-source.cpp" />
@@ -54,6 +56,7 @@
     <ClInclude Include="..\..\course_material\beginner16\beginner16-source.hpp" />
     <ClInclude Include="..\..\course_material\beginner17\beginner17-source.hpp" />
     <ClInclude Include="..\..\course_material\beginner18\beginner18-source.hpp" />
+    <ClInclude Include="..\..\course_material\beginner19\beginner19-source.hpp" />
     <ClInclude Include="..\..\course_material\beginner3\beginner3-source.hpp" />
     <ClInclude Include="..\..\course_material\beginner5\beginner5-source.hpp" />
     <ClInclude Include="..\..\course_material\beginner8\beginner8-source.hpp" />
