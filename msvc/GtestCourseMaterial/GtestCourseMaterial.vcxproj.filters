@@ -22,144 +22,180 @@
     <Filter Include="Header Files\Tested code">
       <UniqueIdentifier>{e99ffc65-cccc-45ff-819a-bc545c4e2349}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Tested code\Beginner">
+      <UniqueIdentifier>{7101510b-e70e-4b2d-a78c-2c1de16311b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Tested code\Intermediate">
+      <UniqueIdentifier>{fcb7dfb0-1f62-4022-805f-5cc85fbc915f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Tested code\Beginner">
+      <UniqueIdentifier>{a8a67871-d2c7-4170-b476-f0eb865adc3d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Tested code\Intermediate">
+      <UniqueIdentifier>{591d4ede-3053-4f53-9a41-a5aa5905f333}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Tests\Beginner">
+      <UniqueIdentifier>{99a8abf1-bfb3-45c3-8d7c-6d6300389767}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Tests\Intermediate">
+      <UniqueIdentifier>{0f5b4a12-ad6d-4167-8c83-8daf430eef99}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\course_material\beginner1\beginner1-tests.cpp">
-      <Filter>Source Files\Tests</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\course_material\beginner2\beginner2-tests.cpp">
-      <Filter>Source Files\Tests</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\course_material\beginner3\beginner3-tests.cpp">
-      <Filter>Source Files\Tests</Filter>
-    </ClCompile>
     <ClCompile Include="..\..\course_material\beginner3\beginner3-source.cpp">
-      <Filter>Source Files\Tested code</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\course_material\beginner4\beginner4-tests.cpp">
-      <Filter>Source Files\Tests</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\course_material\beginner5\beginner5-tests.cpp">
-      <Filter>Source Files\Tests</Filter>
+      <Filter>Source Files\Tested code\Beginner</Filter>
     </ClCompile>
     <ClCompile Include="..\..\course_material\beginner5\beginner5-source.cpp">
-      <Filter>Source Files\Tested code</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\course_material\beginner6\beginner6-tests.cpp">
-      <Filter>Source Files\Tests</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\course_material\beginner7\beginner7-tests.cpp">
-      <Filter>Source Files\Tests</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\course_material\beginner8\beginner8-tests.cpp">
-      <Filter>Source Files\Tests</Filter>
+      <Filter>Source Files\Tested code\Beginner</Filter>
     </ClCompile>
     <ClCompile Include="..\..\course_material\beginner8\beginner8-source.cpp">
-      <Filter>Source Files\Tested code</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\course_material\beginner9\beginner9-tests.cpp">
-      <Filter>Source Files\Tests</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\course_material\beginner10\beginner10-tests.cpp">
-      <Filter>Source Files\Tests</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\course_material\beginner11\beginner11-tests.cpp">
-      <Filter>Source Files\Tests</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\course_material\beginner12\beginner12-tests.cpp">
-      <Filter>Source Files\Tests</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\course_material\beginner13\beginner13-tests.cpp">
-      <Filter>Source Files\Tests</Filter>
+      <Filter>Source Files\Tested code\Beginner</Filter>
     </ClCompile>
     <ClCompile Include="..\..\course_material\beginner13\beginner13-source.cpp">
-      <Filter>Source Files\Tested code</Filter>
+      <Filter>Source Files\Tested code\Beginner</Filter>
     </ClCompile>
     <ClCompile Include="..\..\course_material\beginner14\beginner14-source.cpp">
-      <Filter>Source Files\Tested code</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\course_material\beginner14\beginner14-tests.cpp">
-      <Filter>Source Files\Tests</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\course_material\beginner16\beginner16-tests.cpp">
-      <Filter>Source Files\Tests</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\course_material\beginner16\beginner16-source.cpp">
-      <Filter>Source Files\Tested code</Filter>
+      <Filter>Source Files\Tested code\Beginner</Filter>
     </ClCompile>
     <ClCompile Include="..\..\course_material\beginner15\beginner15-source.cpp">
-      <Filter>Source Files\Tested code</Filter>
+      <Filter>Source Files\Tested code\Beginner</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\course_material\beginner15\beginner15-tests.cpp">
-      <Filter>Source Files\Tests</Filter>
+    <ClCompile Include="..\..\course_material\beginner16\beginner16-source.cpp">
+      <Filter>Source Files\Tested code\Beginner</Filter>
     </ClCompile>
     <ClCompile Include="..\..\course_material\beginner17\beginner17-source.cpp">
-      <Filter>Source Files\Tested code</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\course_material\beginner17\beginner17-tests.cpp">
-      <Filter>Source Files\Tests</Filter>
+      <Filter>Source Files\Tested code\Beginner</Filter>
     </ClCompile>
     <ClCompile Include="..\..\course_material\beginner18\beginner18-source.cpp">
-      <Filter>Source Files\Tested code</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\course_material\beginner18\beginner18-tests.cpp">
-      <Filter>Source Files\Tests</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\course_material\beginner19\beginner19-tests.cpp">
-      <Filter>Source Files\Tests</Filter>
+      <Filter>Source Files\Tested code\Beginner</Filter>
     </ClCompile>
     <ClCompile Include="..\..\course_material\beginner19\beginner19-source.cpp">
-      <Filter>Source Files\Tested code</Filter>
+      <Filter>Source Files\Tested code\Beginner</Filter>
     </ClCompile>
     <ClCompile Include="..\..\course_material\beginner20\beginner20-source.cpp">
-      <Filter>Source Files\Tested code</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\course_material\beginner20\beginner20-tests.cpp">
-      <Filter>Source Files\Tests</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\course_material\intermediate1\intermediate1-tests.cpp">
-      <Filter>Source Files\Tests</Filter>
+      <Filter>Source Files\Tested code\Beginner</Filter>
     </ClCompile>
     <ClCompile Include="..\..\course_material\intermediate1\intermediate1-source.cpp">
-      <Filter>Source Files\Tested code</Filter>
+      <Filter>Source Files\Tested code\Intermediate</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\intermediate2\intermediate2-source.cpp">
+      <Filter>Source Files\Tested code\Intermediate</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\beginner20\beginner20-tests.cpp">
+      <Filter>Source Files\Tests\Beginner</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\beginner1\beginner1-tests.cpp">
+      <Filter>Source Files\Tests\Beginner</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\beginner2\beginner2-tests.cpp">
+      <Filter>Source Files\Tests\Beginner</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\beginner3\beginner3-tests.cpp">
+      <Filter>Source Files\Tests\Beginner</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\beginner4\beginner4-tests.cpp">
+      <Filter>Source Files\Tests\Beginner</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\beginner5\beginner5-tests.cpp">
+      <Filter>Source Files\Tests\Beginner</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\beginner6\beginner6-tests.cpp">
+      <Filter>Source Files\Tests\Beginner</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\beginner7\beginner7-tests.cpp">
+      <Filter>Source Files\Tests\Beginner</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\beginner8\beginner8-tests.cpp">
+      <Filter>Source Files\Tests\Beginner</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\beginner9\beginner9-tests.cpp">
+      <Filter>Source Files\Tests\Beginner</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\beginner10\beginner10-tests.cpp">
+      <Filter>Source Files\Tests\Beginner</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\beginner11\beginner11-tests.cpp">
+      <Filter>Source Files\Tests\Beginner</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\beginner12\beginner12-tests.cpp">
+      <Filter>Source Files\Tests\Beginner</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\beginner13\beginner13-tests.cpp">
+      <Filter>Source Files\Tests\Beginner</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\beginner14\beginner14-tests.cpp">
+      <Filter>Source Files\Tests\Beginner</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\beginner15\beginner15-tests.cpp">
+      <Filter>Source Files\Tests\Beginner</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\beginner16\beginner16-tests.cpp">
+      <Filter>Source Files\Tests\Beginner</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\beginner17\beginner17-tests.cpp">
+      <Filter>Source Files\Tests\Beginner</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\beginner18\beginner18-tests.cpp">
+      <Filter>Source Files\Tests\Beginner</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\beginner19\beginner19-tests.cpp">
+      <Filter>Source Files\Tests\Beginner</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\intermediate1\intermediate1-tests.cpp">
+      <Filter>Source Files\Tests\Intermediate</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\intermediate2\intermediate2-tests.cpp">
+      <Filter>Source Files\Tests\Intermediate</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\intermediate3\intermediate3-source.cpp">
+      <Filter>Source Files\Tested code\Intermediate</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\intermediate3\intermediate3-tests.cpp">
+      <Filter>Source Files\Tests\Intermediate</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\course_material\beginner3\beginner3-source.hpp">
-      <Filter>Header Files\Tested code</Filter>
+      <Filter>Header Files\Tested code\Beginner</Filter>
     </ClInclude>
     <ClInclude Include="..\..\course_material\beginner5\beginner5-source.hpp">
-      <Filter>Header Files\Tested code</Filter>
+      <Filter>Header Files\Tested code\Beginner</Filter>
     </ClInclude>
     <ClInclude Include="..\..\course_material\beginner8\beginner8-source.hpp">
-      <Filter>Header Files\Tested code</Filter>
+      <Filter>Header Files\Tested code\Beginner</Filter>
     </ClInclude>
     <ClInclude Include="..\..\course_material\beginner13\beginner13-source.hpp">
-      <Filter>Header Files\Tested code</Filter>
+      <Filter>Header Files\Tested code\Beginner</Filter>
     </ClInclude>
     <ClInclude Include="..\..\course_material\beginner14\beginner14-source.hpp">
-      <Filter>Header Files\Tested code</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\course_material\beginner16\beginner16-source.hpp">
-      <Filter>Header Files\Tested code</Filter>
+      <Filter>Header Files\Tested code\Beginner</Filter>
     </ClInclude>
     <ClInclude Include="..\..\course_material\beginner15\beginner15-source.hpp">
-      <Filter>Header Files\Tested code</Filter>
+      <Filter>Header Files\Tested code\Beginner</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\course_material\beginner16\beginner16-source.hpp">
+      <Filter>Header Files\Tested code\Beginner</Filter>
     </ClInclude>
     <ClInclude Include="..\..\course_material\beginner17\beginner17-source.hpp">
-      <Filter>Header Files\Tested code</Filter>
+      <Filter>Header Files\Tested code\Beginner</Filter>
     </ClInclude>
     <ClInclude Include="..\..\course_material\beginner18\beginner18-source.hpp">
-      <Filter>Header Files\Tested code</Filter>
+      <Filter>Header Files\Tested code\Beginner</Filter>
     </ClInclude>
     <ClInclude Include="..\..\course_material\beginner19\beginner19-source.hpp">
-      <Filter>Header Files\Tested code</Filter>
+      <Filter>Header Files\Tested code\Beginner</Filter>
     </ClInclude>
     <ClInclude Include="..\..\course_material\beginner20\beginner20-source.hpp">
-      <Filter>Header Files\Tested code</Filter>
+      <Filter>Header Files\Tested code\Beginner</Filter>
     </ClInclude>
     <ClInclude Include="..\..\course_material\intermediate1\intermediate1-source.hpp">
-      <Filter>Header Files\Tested code</Filter>
+      <Filter>Header Files\Tested code\Intermediate</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\course_material\intermediate2\intermediate2-source.hpp">
+      <Filter>Header Files\Tested code\Intermediate</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\course_material\intermediate3\intermediate3-source.hpp">
+      <Filter>Header Files\Tested code\Intermediate</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
