@@ -37,6 +37,8 @@
     <ClCompile Include="..\..\course_material\beginner19\beginner19-source.cpp" />
     <ClCompile Include="..\..\course_material\beginner19\beginner19-tests.cpp" />
     <ClCompile Include="..\..\course_material\beginner1\beginner1-tests.cpp" />
+    <ClCompile Include="..\..\course_material\beginner20\beginner20-source.cpp" />
+    <ClCompile Include="..\..\course_material\beginner20\beginner20-tests.cpp" />
     <ClCompile Include="..\..\course_material\beginner2\beginner2-tests.cpp" />
     <ClCompile Include="..\..\course_material\beginner3\beginner3-source.cpp" />
     <ClCompile Include="..\..\course_material\beginner3\beginner3-tests.cpp" />
@@ -48,6 +50,8 @@
     <ClCompile Include="..\..\course_material\beginner8\beginner8-source.cpp" />
     <ClCompile Include="..\..\course_material\beginner8\beginner8-tests.cpp" />
     <ClCompile Include="..\..\course_material\beginner9\beginner9-tests.cpp" />
+    <ClCompile Include="..\..\course_material\intermediate1\intermediate1-source.cpp" />
+    <ClCompile Include="..\..\course_material\intermediate1\intermediate1-tests.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\course_material\beginner13\beginner13-source.hpp" />
@@ -57,9 +61,11 @@
     <ClInclude Include="..\..\course_material\beginner17\beginner17-source.hpp" />
     <ClInclude Include="..\..\course_material\beginner18\beginner18-source.hpp" />
     <ClInclude Include="..\..\course_material\beginner19\beginner19-source.hpp" />
+    <ClInclude Include="..\..\course_material\beginner20\beginner20-source.hpp" />
     <ClInclude Include="..\..\course_material\beginner3\beginner3-source.hpp" />
     <ClInclude Include="..\..\course_material\beginner5\beginner5-source.hpp" />
     <ClInclude Include="..\..\course_material\beginner8\beginner8-source.hpp" />
+    <ClInclude Include="..\..\course_material\intermediate1\intermediate1-source.hpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
