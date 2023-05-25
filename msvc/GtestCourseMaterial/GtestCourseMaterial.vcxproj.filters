@@ -153,6 +153,24 @@
     <ClCompile Include="..\..\course_material\intermediate3\intermediate3-tests.cpp">
       <Filter>Source Files\Tests\Intermediate</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\course_material\intermediate5\intermediate5-source.cpp">
+      <Filter>Source Files\Tested code\Intermediate</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\intermediate5\intermediate5-tests.cpp">
+      <Filter>Source Files\Tests\Intermediate</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\intermediate4\intermediate4-source.cpp">
+      <Filter>Source Files\Tested code\Intermediate</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\intermediate4\intermediate4-tests.cpp">
+      <Filter>Source Files\Tests\Intermediate</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\intermediate6\intermediate6-source.cpp">
+      <Filter>Source Files\Tested code\Intermediate</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\intermediate6\intermediate6-tests.cpp">
+      <Filter>Source Files\Tests\Intermediate</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\course_material\beginner3\beginner3-source.hpp">
@@ -195,6 +213,15 @@
       <Filter>Header Files\Tested code\Intermediate</Filter>
     </ClInclude>
     <ClInclude Include="..\..\course_material\intermediate3\intermediate3-source.hpp">
+      <Filter>Header Files\Tested code\Intermediate</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\course_material\intermediate5\intermediate5-source.hpp">
+      <Filter>Header Files\Tested code\Intermediate</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\course_material\intermediate4\intermediate4-source.hpp">
+      <Filter>Header Files\Tested code\Intermediate</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\course_material\intermediate6\intermediate6-source.hpp">
       <Filter>Header Files\Tested code\Intermediate</Filter>
     </ClInclude>
   </ItemGroup>
