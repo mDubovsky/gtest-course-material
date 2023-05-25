@@ -13,6 +13,7 @@ namespace Intermediate4Code
     TEST(Intermediate4, depositHundred)
     {
         Bank bank;
+
         bank.depositMoney(100);
 
         EXPECT_THAT(bank.getBalance(), Eq(100));

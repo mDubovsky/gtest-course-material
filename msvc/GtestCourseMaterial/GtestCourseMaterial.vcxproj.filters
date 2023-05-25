@@ -171,6 +171,12 @@
     <ClCompile Include="..\..\course_material\intermediate6\intermediate6-tests.cpp">
       <Filter>Source Files\Tests\Intermediate</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\course_material\intermediate7\intermediate7-source.cpp">
+      <Filter>Source Files\Tested code\Intermediate</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\course_material\intermediate7\intermediate7-tests.cpp">
+      <Filter>Source Files\Tests\Intermediate</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\course_material\beginner3\beginner3-source.hpp">
@@ -222,6 +228,9 @@
       <Filter>Header Files\Tested code\Intermediate</Filter>
     </ClInclude>
     <ClInclude Include="..\..\course_material\intermediate6\intermediate6-source.hpp">
+      <Filter>Header Files\Tested code\Intermediate</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\course_material\intermediate7\intermediate7-source.hpp">
       <Filter>Header Files\Tested code\Intermediate</Filter>
     </ClInclude>
   </ItemGroup>

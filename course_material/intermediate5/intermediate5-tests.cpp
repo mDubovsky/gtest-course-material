@@ -13,6 +13,7 @@ namespace Intermediate5Code
     TEST(Intermediate5, depositHundred)
     {
         Bank bank;
+
         bank.depositMoney(100);
 
         EXPECT_THAT(bank, Field(&Bank::m_balance, Eq(100)));

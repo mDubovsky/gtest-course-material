@@ -62,6 +62,8 @@
     <ClCompile Include="..\..\course_material\intermediate5\intermediate5-tests.cpp" />
     <ClCompile Include="..\..\course_material\intermediate6\intermediate6-source.cpp" />
     <ClCompile Include="..\..\course_material\intermediate6\intermediate6-tests.cpp" />
+    <ClCompile Include="..\..\course_material\intermediate7\intermediate7-source.cpp" />
+    <ClCompile Include="..\..\course_material\intermediate7\intermediate7-tests.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\course_material\beginner13\beginner13-source.hpp" />
@@ -81,6 +83,7 @@
     <ClInclude Include="..\..\course_material\intermediate4\intermediate4-source.hpp" />
     <ClInclude Include="..\..\course_material\intermediate5\intermediate5-source.hpp" />
     <ClInclude Include="..\..\course_material\intermediate6\intermediate6-source.hpp" />
+    <ClInclude Include="..\..\course_material\intermediate7\intermediate7-source.hpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
